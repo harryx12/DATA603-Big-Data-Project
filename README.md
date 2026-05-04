@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis with PySpark & Deep Learning
+# Sentiment Analysis of Tweets using Big Data Platforms
 
 A big data NLP pipeline that classifies tweet sentiment using the **Sentiment140** dataset (1.6M tweets). The project trains and compares five models — three Spark ML classifiers and two deep learning architectures — then deploys the best performer via an interactive Gradio web app.
 
